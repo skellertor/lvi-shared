@@ -13,6 +13,7 @@
   "author": "skellertor",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.4.2"
+    "react": "^15.4.2",
+    "sh-icons": "^0.3.6"
   }
 }

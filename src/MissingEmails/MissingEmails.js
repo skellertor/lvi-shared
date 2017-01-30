@@ -1,9 +1,9 @@
 import React from 'react';
-import LVIContainer from '../LVIContainer/LVIContainer';
-import LVIHeader from '../LVIHeader/LVIHeader';
-import LVIDescription from '../LVIDescription/LVIDescription';
-import LVIProspectContainer from '../LVIProspectContainer/LVIProspectContainer';
-import LVIProspectCard from '../LVIProspectCard/LVIProspectCard';
+import LVIContainer from '../Shared/LVIContainer/LVIContainer';
+import LVIHeader from '../Shared/LVIHeader/LVIHeader';
+import LVIDescription from '../Shared/LVIDescription/LVIDescription';
+import LVIProspectContainer from '../Shared/LVIProspectContainer/LVIProspectContainer';
+import LVIProspectCard from '../Shared/LVIProspectCard/LVIProspectCard';
 
 export class MissingEmails extends React.Component {
     constructor() {

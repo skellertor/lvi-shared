@@ -1,0 +1,22 @@
+.lvi-description {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 10px 10px 20px 10px;
+}
+
+.lvi-description-image {
+    color: #e58e38;
+    min-width: 10%;
+}
+
+.icon-bolt {
+    font-size: 28px;
+}
+
+.lvi-description-text {
+    color: #e3e5e7;
+    text-align: left;
+    width: 90%;
+    font-size: small;
+}

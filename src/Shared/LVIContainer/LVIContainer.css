@@ -1,0 +1,8 @@
+.lvi-container {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 20px 8px 20px;
+    background-color: #2d3b45;
+    width: 100%;
+    height: auto;
+}

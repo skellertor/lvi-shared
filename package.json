@@ -1,0 +1,15 @@
+{
+  "name": "lvi-shared",
+  "version": "1.0.0",
+  "description": "Individual components for building insidesales.com listview-import",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "components"
+  ],
+  "author": "skellertor",
+  "license": "ISC"
+}

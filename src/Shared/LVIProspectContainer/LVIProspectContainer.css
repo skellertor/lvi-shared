@@ -1,0 +1,5 @@
+.lvi-prospect-container {
+    display: block;
+    height: 99%;
+    overflow-y: scroll;
+}

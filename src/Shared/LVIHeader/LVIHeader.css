@@ -1,0 +1,30 @@
+.lvi-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.lvi-back-button {
+    padding-top: 27px;
+    color: #515d66;
+    cursor: pointer;
+}
+
+.icon-chevron-left {
+    font-size: 11px;
+}
+
+.lvi-title {
+    padding-top: 20px;
+    height: 21px;
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: lighter;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.lvi-spacer {
+    min-width: 53px;
+}
